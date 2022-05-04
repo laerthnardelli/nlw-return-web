@@ -3,7 +3,11 @@ import { Camera } from "phosphor-react";
 import { useState } from "react";
 import { Loading } from "../Loading";
 
-export function ScreenshotButton() {
+interface ScreenshotButtonProps {
+  onScreenshotTook: (screenshot: string) => void;
+}
+
+export function ScreenshotButton({ onScreenshotTook }: ScreenshotButtonProps) {
   const [isTakeScreenshot, setIsTakeScreenshot] = useState(false);
 
   async function handleTakeScreenshot() {
@@ -12,7 +16,8 @@ export function ScreenshotButton() {
     const canvas = await html2canvas(document.querySelector("html")!); //! - I am stating that it is not null
     const base64image = canvas.toDataURL("image/png");
 
-    console.log(base64image);
+    //console.log(base64image);
+    onScreenshotTook(base64image);
 
     setIsTakeScreenshot(false);
   }
