@@ -5,7 +5,7 @@ import { Loading } from "../Loading";
 
 interface ScreenshotButtonProps {
   screenshot: string | null;
-  onScreenshotTook: (screenshot: string) => void;
+  onScreenshotTook: (screenshot: string | null) => void;
 }
 
 export function ScreenshotButton({
@@ -38,6 +38,7 @@ export function ScreenshotButton({
           backgroundPosition: "right bottom",
           backgroundSize: 180,
         }}
+        onClick={() => onScreenshotTook(null)}
       >
         <Trash weight="fill" />
       </button>
