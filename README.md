@@ -24,6 +24,9 @@ Tecnologias Utilizadas:
 * html2canvas<br/>
 * phosphor-react<br/>
 * Axios
+* Deploy do frontend na **[@Vercel](https://vercel.com/)** e backend no **[@Heroku](https://heroku.com)**.
+
+link do deploy na vercel: https://nlw-return-web-git-main-laerthnardelli.vercel.app/ 
 
 Iniciar App Web: <br/>
 * cd web<br/>
