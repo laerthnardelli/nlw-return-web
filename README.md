@@ -26,9 +26,11 @@ Tecnologias Utilizadas:
 * Axios
 * Deploy do frontend na **[@Vercel](https://vercel.com/)** e backend no **[@Heroku](https://heroku.com)**.
 
-link do deploy na vercel: https://nlw-return-web-git-main-laerthnardelli.vercel.app/ 
-
 Iniciar App Web: <br/>
 * cd web<br/>
 * npm run dev<br/>
-* http://localhost:3000/
+* http://localhost:3000/ <br/>
+
+repositório mobile: https://github.com/laerthnardelli/nlw-return-mobile<br />
+repositório backend: https://github.com/laerthnardelli/nlw-return-api <br/>
+
