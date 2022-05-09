@@ -1,4 +1,5 @@
 Projeto Next Level Week 8 - Return
+
 ![nlw-return](https://user-images.githubusercontent.com/54412289/167443970-7c464ef7-1457-4db1-a0e3-b2af798787da.png)
 
 
@@ -11,8 +12,8 @@ Esse evento foi ministrado pela **[@Rocketseat](https://github.com/Rocketseat)**
 
 Tecnologias Utilizadas:
 * Typescript <br/>
+* * Vite<br/>
 * TailwindCSS<br/>
-* Vite<br/>
 * Headless UI > acessibilidade<br/>
 * html2canvas<br/>
 * phosphor-react<br/>
