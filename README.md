@@ -4,8 +4,8 @@ Projeto Next Level Week 8 - Return
 
 
 
-O projeto do evento, tem a finalidade de um botão flutuante de enviar feedback com comentário e uma screenshot da tela. 
-O feedback pode ser represendado por Problema, ideia, ou Outro. Após o envio do feedback, será registrado no banco de dados, e enviado um e-mail para o responsável da aplicação. 
+O projeto do evento, tem a finalidade de um botão flutuante de enviar feedback, com comentário e uma screenshot da tela. 
+O feedback pode ser represendado por problema, ideia, ou Outro. Após o envio do feedback, será registrado no banco de dados, e enviado um e-mail para o responsável da aplicação. <br/>
 Esse evento foi ministrado pela **[@Rocketseat](https://github.com/Rocketseat)**
 
 ![feedback 01](https://user-images.githubusercontent.com/54412289/167454540-7eb6d314-ea68-4516-8195-930e6b41f0e4.png)
@@ -20,7 +20,7 @@ Tecnologias Utilizadas:
 * Typescript <br/>
 * Vite<br/>
 * TailwindCSS<br/>
-* Headless UI > acessibilidade<br/>
+* Headless UI (acessibilidade)<br/>
 * html2canvas<br/>
 * phosphor-react<br/>
 * Axios
