@@ -12,7 +12,7 @@ Esse evento foi ministrado pela **[@Rocketseat](https://github.com/Rocketseat)**
 
 Tecnologias Utilizadas:
 * Typescript <br/>
-* * Vite<br/>
+* Vite<br/>
 * TailwindCSS<br/>
 * Headless UI > acessibilidade<br/>
 * html2canvas<br/>
