@@ -11,7 +11,13 @@ Esse evento foi ministrado pela **[@Rocketseat](https://github.com/Rocketseat)**
 
 Tecnologias Utilizadas:
 * Typescript <br/>
-* 
+* TailwindCSS<br/>
+* Vite<br/>
+* Headless UI > acessibilidade<br/>
+* html2canvas<br/>
+* phosphor-react<br/>
 
 Iniciar App Web: <br/>
 * cd web<br/>
+* npm run dev<br/>
+* http://localhost:3000/
