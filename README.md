@@ -31,6 +31,6 @@ Iniciar App Web: <br/>
 * npm run dev<br/>
 * http://localhost:3000/ <br/>
 
-repositório mobile: https://github.com/laerthnardelli/nlw-return-mobile<br />
-repositório backend: https://github.com/laerthnardelli/nlw-return-api <br/>
+repositório frontend mobile: https://github.com/laerthnardelli/nlw-return-mobile<br />
+repositório backend api: https://github.com/laerthnardelli/nlw-return-api <br/>
 
