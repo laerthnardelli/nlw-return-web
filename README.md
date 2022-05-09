@@ -17,6 +17,7 @@ Tecnologias Utilizadas:
 * Headless UI > acessibilidade<br/>
 * html2canvas<br/>
 * phosphor-react<br/>
+* Axios
 
 Iniciar App Web: <br/>
 * cd web<br/>
